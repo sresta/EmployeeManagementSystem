@@ -22,4 +22,5 @@ npm install
 Admin user is seed to database.
 - Email: admin@gmail.com
 - Password: P@ssw0rd
+
 Now you can visit the site with the URL http://localhost:4200
