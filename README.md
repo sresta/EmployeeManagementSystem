@@ -1,6 +1,6 @@
 # EmployeeManagementSystem
 Technology Stack
-- .Net Core
+- .Net Core Web Api
 - Angular CLI: 12
 - Node: v14
 - Postgres Sql
@@ -16,6 +16,10 @@ npm install
 
 ## Running frontend, backend and sidekiq
 - Frontend (from client folder): ng serve -o
-- API: Start visual studio
-
+- API: Start IIS express from visual studio
+ 
+## Default login credential for admin
+Admin user is seed to database.
+- Email: admin@gmail.com
+- Password: P@ssw0rd
 Now you can visit the site with the URL http://localhost:4200
