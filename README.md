@@ -6,11 +6,13 @@ Technology Stack
 - Postgres Sql
 
 # Local development setup
+~~~
 git clone https://github.com/sresta/EmployeeManagementSystem.git
 cd EmployeeManagementSystem
 open EmployeeManagementSystem.sln with visual studio 19
 cd Ui/client
 npm install
+~~~
 
 ## Running frontend, backend and sidekiq
 - Frontend (from client folder): ng serve -o
